@@ -147,7 +147,7 @@ After my positioning, I added four media queries:
 
 ### What I learned
 
-I learned a little bit more about media queries combined with CSS Grid. I have never actually worked that much with media queries, but using a lot more, I can see the benefits.
+I learned more about media queries combined with CSS Grid. I have never actually worked that much with media queries; a must for responsive design. 
 
 I've also used the background-image: url(); I haven't use this as much, but the 'Order Summary' project was my first time in a long time, so using it again in this project helped me understand it better
 

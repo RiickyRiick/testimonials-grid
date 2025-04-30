@@ -111,7 +111,7 @@ My CSS Grid styling began with:
 
 .kira {
  background-color: hsl(0, 0%, 100%);
- color: hsl(217, 19%, 35%);;
+ color: hsl(217, 19%, 35%);
  grid-row: span 2;
  padding: 36px;
 }

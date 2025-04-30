@@ -136,7 +136,7 @@ After my positioning, I added four media queries:
 --700px
 --375px
 
-...if you take a closer look at the 780px and the 700px. What I intended in the transitioning here was to give the .kira card more space since it was becoming too vertical (reading this would be a hassle). To fix this, I just switched the placement of the two smallest cards (.jonathan and .jeanette) to the outside, giving the .kira card the left horizontal space. 
+...if you take a closer look at the 1080px and the 780px. What I intended in the transitioning here was to give the .kira card more space since it was becoming too vertical (reading this would be a hassle). To fix this, I just switched the placement of the two smallest cards (.jonathan and .jeanette) to the outside, giving the .kira card the left horizontal space. 
 
 ### Built with
 

@@ -58,7 +58,7 @@ Users should be able to:
 
 HTML:
 
-My process started by creating my containers and all the boxes: 
+My process started by creating my containers and all the cards: 
 
 ```html
 <main class="container">

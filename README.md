@@ -167,8 +167,12 @@ Going to continue working on my CSS Grid and Flexbox, mainly focusing my attenti
 ## Acknowledgments
 
 <a href="https://www.udemy.com/course/the-complete-web-development-bootcamp/
-" target="_blank">Dr. Angela's Complete Web Developing Bootcamp/a> 
+" target="_blank">Dr. Angela's Complete Web Developing Bootcamp</a> 
 
 <a href="https://www.udemy.com/course/the-complete-web-development-bootcamp/?couponCode=ST7MT290425G3#instructor-1" target="_blank">Dr. Angela's Profile</a>
+
+<a href="https://cssgridgarden.com/" target="_blank">CSS Grid Garden</a>
+
+
 
 
